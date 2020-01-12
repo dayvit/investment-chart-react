@@ -1,7 +1,5 @@
 import { createGlobalStyle } from 'styled-components';
 
-// import background from '';
-// Roboto Font base
 export default createGlobalStyle`
   @import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
   * {
@@ -10,8 +8,24 @@ export default createGlobalStyle`
     outline: 0;
     box-sizing: border-box;
   }
-  body {
+
+  html, body {
+    height: 100%;
+    display: grid;
     background: #191920;
+    font-family: 'Roboto', sans-serif;
     -webkit-font-smoothing: antialiased;
+  }
+
+  .hide {
+    display: none;
+  }
+
+  .flex-container {
+    display: flex;
+    flex-wrap: wrap;
+    width: 85%;
+    margin: 18px auto;
+    justify-content:center;
   }
 `;
