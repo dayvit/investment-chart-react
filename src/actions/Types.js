@@ -1,0 +1,6 @@
+export const FETCHBITCOIN = 'FETCHBITCOIN';
+export const CALCULATETREASURE = 'TREASURE';
+export const GETAMOUNT = 'GETAMOUNT';
+export const GETPERIOD = 'GETPERIOD';
+export const GETINVEST = 'GETINVEST';
+export const BITCOINERROR = 'BITCOINERROR';

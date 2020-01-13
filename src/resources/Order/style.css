@@ -1,0 +1,13 @@
+.form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-top: 1%;
+  grid-template-columns: repeat(1, 1fr);
+}
+
+.form__label {
+  margin-top: 10px;
+  font-weight: bold;
+  width: 25%;
+}
