@@ -3,6 +3,8 @@
   investiment.netlify.com
 </a>
 
+Projeto <b>antigo</b> desenvolvido como prova de conhecimento para ingresso em uma empresa.
+
 <a href="https://investiment.netlify.com/">
   <img alt="Project" src="https://s5.gifyu.com/images/Peek-2020-01-13-03-49.gif" width="100%" />
 </a>
